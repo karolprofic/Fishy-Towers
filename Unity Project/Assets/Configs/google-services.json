@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201598478832",
+    "firebase_url": "https://baby-sharks-102-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "baby-sharks-102",
+    "storage_bucket": "baby-sharks-102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201598478832:android:26e230468633ed9c4cd535",
+        "android_client_info": {
+          "package_name": "com.babySharks.FishyTowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201598478832-qar88mk7qej3pakit9luseoqr4jviek4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.babySharks.FishyTowers",
+            "certificate_hash": "4316d28c5255984679ef6c3f2b91b2b5a97b9739"
+          }
+        },
+        {
+          "client_id": "201598478832-i7b8ej2mp5jmvdnova8med7ostv9cu8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201598478832-i7b8ej2mp5jmvdnova8med7ostv9cu8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

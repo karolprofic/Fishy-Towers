@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1469648186434696948
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2094095423, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819919174262302261, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819919174262302261, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819919174262302261, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819919174262302261, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: areaType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: collider
+      value: 
+      objectReference: {fileID: 5606564808052268581}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: attackType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: bulletType
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <Cost>k__BackingField
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <Damage>k__BackingField
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <Health>k__BackingField
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <AreaSize>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <FireRate>k__BackingField
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689436650090029769, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: <RefreshTIme>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514884015292556078, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+      propertyPath: m_Name
+      value: PH_Herring Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+--- !u!58 &5606564808052268581 stripped
+CircleCollider2D:
+  m_CorrespondingSourceObject: {fileID: 6461462332245928145, guid: c3c42e290c9709b4e89b79be837a70fe, type: 3}
+  m_PrefabInstance: {fileID: 1469648186434696948}
+  m_PrefabAsset: {fileID: 0}

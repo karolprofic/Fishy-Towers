@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Settings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 28ca2251ca5739342ba2fc9f31510d11, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 74432610086912
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838548517433344
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838551336005632
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838554355904512
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838559288406016
+    m_Localized: User account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1838562648043520
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13779543932841984
+    m_Localized: 'Status: Not logged in'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13779541860855808
+    m_Localized: 'Status: Logged in'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13849457708281856
+    m_Localized: 'Status: An error occurred'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14457958657081344
+    m_Localized: Create account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14457898288463872
+    m_Localized: Enter email...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14457839501099008
+    m_Localized: Enter password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14457782739582976
+    m_Localized: Online account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14458003821346816
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14617193858248704
+    m_Localized: 'Change language:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

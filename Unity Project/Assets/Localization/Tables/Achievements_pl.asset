@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Achievements_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 6871737c11fbbbd4ab62bffa945e7736, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50697121792
+    m_Localized: "Osi\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76240433152
+    m_Localized: Fort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79558127616
+    m_Localized: Zamek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82380894208
+    m_Localized: Preppers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86671667200
+    m_Localized: Legenda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89964195840
+    m_Localized: "\u017Bo\u0142nierz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90870165504
+    m_Localized: Assasyn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91507699712
+    m_Localized: Komandos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92078125056
+    m_Localized: Terminator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112445665280
+    m_Localized: Legenda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111908794368
+    m_Localized: Profesjonalista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111342563328
+    m_Localized: Strateg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110767943680
+    m_Localized: Nowicjusz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110201712640
+    m_Localized: Masochista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109593538560
+    m_Localized: 'Ty to chyba lubisz? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109027307520
+    m_Localized: "Nic si\u0119 nie sta\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108456882176
+    m_Localized: "Pierwsze koty za p\u0142oty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107852902400
+    m_Localized: Zmasowany atak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107232145408
+    m_Localized: "Si\u0142y specjalne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106640748544
+    m_Localized: Nowa taktyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106003214336
+    m_Localized: Ataki specjalne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105369874432
+    m_Localized: "Z\u0142ap je wszystkie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104761700352
+    m_Localized: "Z\u0142oto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104128360448
+    m_Localized: Srebro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103486631936
+    m_Localized: "Br\u0105z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102853292032
+    m_Localized: Batalion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102215757824
+    m_Localized: Kompania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101540474880
+    m_Localized: Pluton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101003603968
+    m_Localized: "Dru\u017Cyna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100366069760
+    m_Localized: 'Pan Ciekawski '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99795644416
+    m_Localized: Ananasowy dom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99191664640
+    m_Localized: "Powa\u017Cne zasoby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98554130432
+    m_Localized: "Oszcz\u0119dno\u015Bci "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97983705088
+    m_Localized: "Pieni\u0105dze z komunii"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97413279744
+    m_Localized: Do Lewiatana jeden krok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96876408832
+    m_Localized: Jednego potwora mniej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96272429056
+    m_Localized: "C\xF3rka Forkosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95634894848
+    m_Localized: "Perseusz by\u0142by dumny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95064469504
+    m_Localized: 'Jak Herkules '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94426935296
+    m_Localized: Modernizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93856509952
+    m_Localized: "Drugie \u017Cycie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93151866880
+    m_Localized: "Tylko na tyle ci\u0119 sta\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92547887104
+    m_Localized: I kto tu jest szefem?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113053839360
+    m_Localized: Przetrwaj 10 fal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113624264704
+    m_Localized: Przetrwaj 50 fal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114190495744
+    m_Localized: Przetrwaj 100 fal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114832224256
+    m_Localized: Przetrwaj 250 fal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115406843904
+    m_Localized: "Pokonaj 10 przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116006629376
+    m_Localized: "Pokonaj 100 przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116543500288
+    m_Localized: "Pokonaj 1000 przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117113925632
+    m_Localized: "Pokonaj 10000 przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117684350976
+    m_Localized: "Pokonaj 10 bos\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118351245312
+    m_Localized: "Pokonaj 100 bos\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118988779520
+    m_Localized: "Ulepsz 10 jednostk\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119592759296
+    m_Localized: "Ulepsz 100 jednostk\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120234487808
+    m_Localized: Pokonaj Hydre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120771358720
+    m_Localized: Pokonaj Krakena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121375338496
+    m_Localized: Pokonaj Meduze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122012872704
+    m_Localized: Pokonaj Cetusa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122616852480
+    m_Localized: Pokonaj Leviatana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123220832256
+    m_Localized: "Zdob\u0105d\u017A \u0142\u0105cznie 10 000 wodorost\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123824812032
+    m_Localized: "Zdob\u0105d\u017A \u0142\u0105cznie 50 000 wodorost\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124428791808
+    m_Localized: "Zdob\u0105d\u017A \u0142\u0105cznie 100 000 wodorost\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125066326016
+    m_Localized: "Zdob\u0105d\u017A \u0142\u0105cznie 400 000 wodorost\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125603196928
+    m_Localized: "Kup skrzynk\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126207176704
+    m_Localized: Rozstaw 10 jednostek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126844710912
+    m_Localized: Rozstaw 50 jednostek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127486439424
+    m_Localized: Rozstaw 250 jednostek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128358854656
+    m_Localized: Rozstaw 1000 jednostek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128824422400
+    m_Localized: "Zdob\u0105d\u017A wszystkie br\u0105zowe osi\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129394847744
+    m_Localized: "Zdob\u0105d\u017A wszystkie srebrne osi\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130065936384
+    m_Localized: "Zdob\u0105d\u017A wszystkie z\u0142ote osi\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130703470592
+    m_Localized: "Zdob\u0105d\u017A wszystkie osi\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131273895936
+    m_Localized: "Wykonaj 25 atak\xF3w specjalnych "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131978539008
+    m_Localized: "Wykonaj 50 atak\xF3w specjalnych "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132653821952
+    m_Localized: "Wykonaj 75 atak\xF3w specjalnych "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133220052992
+    m_Localized: "Wykonaj 100 atak\xF3w specjalnych "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133857587200
+    m_Localized: Przegraj misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134365097984
+    m_Localized: Przegraj 2 misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135031992320
+    m_Localized: Przegraj 3 misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136747462656
+    m_Localized: Przegraj 5 misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140270678016
+    m_Localized: Wygraj misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2362052227072
+    m_Localized: Wygraj 5 misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2366615629824
+    m_Localized: Wygraj 10 misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2394000240640
+    m_Localized: Wygraj 15 misje
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://baby-sharks-102-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">201598478832</string>
+  <string name="google_storage_bucket" translatable="false">baby-sharks-102.appspot.com</string>
+  <string name="project_id" translatable="false">baby-sharks-102</string>
+  <string name="google_api_key" translatable="false">AIzaSyCYfaGkt79byka_D1O1bG-C0X6UhEH08Sg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYfaGkt79byka_D1O1bG-C0X6UhEH08Sg</string>
+  <string name="google_app_id" translatable="false">1:201598478832:android:26e230468633ed9c4cd535</string>
+  <string name="default_android_client_id" translatable="false">201598478832-qar88mk7qej3pakit9luseoqr4jviek4.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">201598478832-i7b8ej2mp5jmvdnova8med7ostv9cu8s.apps.googleusercontent.com</string>
+</resources>

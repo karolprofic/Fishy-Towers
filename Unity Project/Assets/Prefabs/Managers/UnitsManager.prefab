@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4042474974737125805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4042474974737125795}
+  - component: {fileID: 4042474974737125804}
+  m_Layer: 0
+  m_Name: UnitsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4042474974737125795
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4042474974737125805}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4042474974737125804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4042474974737125805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a4fdc56958406bb02fdf353d84d5bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  elementsPackages:
+  - Type: 16
+    Element: {fileID: 5237855750967317565, guid: cf2c2cae0e696334580665ea3f4f668c, type: 3}
+  - Type: 1
+    Element: {fileID: 5237855750967317565, guid: 6b6a3cd7db7ef4541a12b6a5a3feb8aa, type: 3}
+  - Type: 11
+    Element: {fileID: 5237855750967317565, guid: 0847e834ed3105b4b81ad2509bef5749, type: 3}
+  - Type: 12
+    Element: {fileID: 5237855750967317565, guid: e49784c0eb6048c419cdb1ccc00e8fec, type: 3}
+  - Type: 13
+    Element: {fileID: 5237855750967317565, guid: 93c35a9afefae4a4eb85431f9df369bb, type: 3}
+  - Type: 6
+    Element: {fileID: 5237855750967317565, guid: 05ee8cd3fbd60e143ae7ee69d33f95b5, type: 3}
+  - Type: 20
+    Element: {fileID: 5237855750967317565, guid: 4f25b8574f360284bbdb93180eef1a68, type: 3}
+  - Type: 19
+    Element: {fileID: 5237855750967317565, guid: 17406a65b237a5e4bac7da6b19012f08, type: 3}
+  - Type: 22
+    Element: {fileID: 5237855750967317565, guid: 55329c4f915bbc24f81e82b04f9acc1f, type: 3}
+  - Type: 8
+    Element: {fileID: 5237855750967317565, guid: ff91a90f15a7dd3489d9b40e6fd50651, type: 3}
+  - Type: 25
+    Element: {fileID: 5237855750967317565, guid: 81f5b4fe03727ef428ff38ab0ecc6f73, type: 3}
+  - Type: 10
+    Element: {fileID: 5237855750967317565, guid: 3153ae9c63fce7f41a5d19e7720df235, type: 3}
+  - Type: 2
+    Element: {fileID: 5237855750967317565, guid: b37199b63d9489348830bcddea47f857, type: 3}
+  - Type: 17
+    Element: {fileID: 5237855750967317565, guid: bd0f595507827004198ccca21863143a, type: 3}
+  - Type: 9
+    Element: {fileID: 5237855750967317565, guid: 401e63b62f444214884d5f310e54f2d6, type: 3}
+  - Type: 21
+    Element: {fileID: 5237855750967317565, guid: a98ddf00faea62c4a8ae604c6cc671d1, type: 3}
+  - Type: 24
+    Element: {fileID: 5237855750967317565, guid: f95a18a13d9b3cd41837d3ec831cf7ce, type: 3}
+  - Type: 18
+    Element: {fileID: 5237855750967317565, guid: c86e72fcccb08ce469369ef7f6dc327d, type: 3}
+  - Type: 7
+    Element: {fileID: 5237855750967317565, guid: ed33783a4016e2c4996b95946346933b, type: 3}
+  - Type: 23
+    Element: {fileID: 5237855750967317565, guid: dc235232b197c0f4f8cb2c6ee3e04ee3, type: 3}
+  - Type: 14
+    Element: {fileID: 5237855750967317565, guid: e66fe23b89832364ab8cd7d5bbf7c8fe, type: 3}
+  - Type: 3
+    Element: {fileID: 5237855750967317565, guid: ac1ee495ae2af104189a8cf2a78e2085, type: 3}
+  - Type: 5
+    Element: {fileID: 5237855750967317565, guid: 98d6f28cef63d504fbac0ea71c8eaebc, type: 3}
+  - Type: 15
+    Element: {fileID: 5237855750967317565, guid: 4c0099d3f61621c468ddceb28156ee5f, type: 3}
+  - Type: 4
+    Element: {fileID: 5237855750967317565, guid: 4c0cd7e689f26d24a95f7c95f3164f38, type: 3}
+  - Type: 27
+    Element: {fileID: 1817138968711882857, guid: 5ad33b091268db84f903a69d3951a461, type: 3}
+  - Type: 29
+    Element: {fileID: 1817138968711882857, guid: 72163860a735b774fb5e4d7cee0e4bd4, type: 3}
+  - Type: 34
+    Element: {fileID: 1817138968711882857, guid: d28088f0b5be9784d9ea0173240786ab, type: 3}
+  - Type: 33
+    Element: {fileID: 1817138968711882857, guid: 4e79a9ccf19c50941801bdd2521464fb, type: 3}
+  - Type: 28
+    Element: {fileID: 1817138968711882857, guid: 5c8526f476d2211449b555b1cd4b4e01, type: 3}
+  - Type: 32
+    Element: {fileID: 1817138968711882857, guid: 5906e28073ce79a419a22e9545299283, type: 3}
+  - Type: 31
+    Element: {fileID: 1817138968711882857, guid: 196742dafb8d5ca4c9fe7fc62007293a, type: 3}
+  - Type: 26
+    Element: {fileID: 1817138968711882857, guid: a731ebb03a4907b499722388a1762af4, type: 3}
+  - Type: 30
+    Element: {fileID: 1817138968711882857, guid: 12cd82bbbd57e3c4980a07c32da492f3, type: 3}
+  errorImage: {fileID: 21300000, guid: e9755eb185224f44b9ea4da39647ef49, type: 3}
+  miniaturesPackages:
+  - Type: 16
+    Miniature: {fileID: 21300000, guid: 91dbcf292c22e624a96304e090d700a1, type: 3}
+  - Type: 8
+    Miniature: {fileID: 21300000, guid: cfbdc6248d29eba4dad65c4564486045, type: 3}
+  - Type: 12
+    Miniature: {fileID: 21300000, guid: 3f62d0e8408d01d4a94c6b663c820a93, type: 3}
+  - Type: 17
+    Miniature: {fileID: 21300000, guid: 8b4d636b76726ba4d802376840f39563, type: 3}
+  - Type: 18
+    Miniature: {fileID: 21300000, guid: 7695f3344fe4b114a963ef7446b9b895, type: 3}
+  - Type: 7
+    Miniature: {fileID: 21300000, guid: 73032dccb23ddf943ad2fb7139cf8d83, type: 3}
+  - Type: 23
+    Miniature: {fileID: 21300000, guid: 79e942c123c34f444ae5cf4f9a53822c, type: 3}
+  - Type: 15
+    Miniature: {fileID: 21300000, guid: 6289863a0460daf46ab9089b905fa4f1, type: 3}
+  - Type: 4
+    Miniature: {fileID: 21300000, guid: d84cabb53003e66478964888a2b41972, type: 3}
+  - Type: 1
+    Miniature: {fileID: 21300000, guid: 0bff42a8fc4285f4cbed035b228531d1, type: 3}
+  - Type: 6
+    Miniature: {fileID: 21300000, guid: 266d3db9d090cac408a55590de619ee7, type: 3}
+  - Type: 9
+    Miniature: {fileID: 21300000, guid: 3d48d1a6da16ef24fac27e9845ca0b01, type: 3}

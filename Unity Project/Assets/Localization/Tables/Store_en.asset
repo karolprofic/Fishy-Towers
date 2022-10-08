@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Store_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bc9b30fdca172c3438a4b613da0562d4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 168358232064
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604155177680896
+    m_Localized: 250 seashells
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604662172565504
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604498825396224
+    m_Localized: 'Price: 4.99 PLN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604495067299840
+    m_Localized: 'Price: 2.99 PLN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604491510530048
+    m_Localized: 'Price: 1.99 PLN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604293128339456
+    m_Localized: 1000 seashells
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604220243918848
+    m_Localized: 500 seashells
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9925523740864512
+    m_Localized: 'Price:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9933974332289024
+    m_Localized: An error occurred while making a purchase. Please try again later.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9934203261595648
+    m_Localized: 'You own: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9934284807254016
+    m_Localized: ' seashells'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
